@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">Compass-App</string>
     <string name="compass">A compass</string>
+    <string name="lat">Latitude:</string>
+    <string name="lon">Longitude:</string>
+    <string name="alt">Altitude:</string>
+    <string name="acc">Accuracy:</string>
+    <string name="spd">Speed:</string>
+    <string name="adr">Address:</string>
+    <string name="upd">"Updates: "</string>
+    <string name="loc_upd">Location Updates</string>
+    <string name="lat2">(Target) Latitude:</string>
+    <string name="lon2">(Target) Longitude:</string>
+    <string name="alt2">(Target) Altitude:</string>
+    <string name="acc2">(Target) Accuracy:</string>
+    <string name="spd2">(Target) Speed:</string>
+    <string name="adr2">(Target) Address:</string>
+    <string name="off">Off</string>
 </resources>
