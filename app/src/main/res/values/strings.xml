@@ -1,13 +1,15 @@
 <resources>
     <string name="app_name">Compass-App</string>
     <string name="compass">A compass</string>
-    <string name="lat">Latitude:</string>
-    <string name="lon">Longitude:</string>
-    <string name="alt">Altitude:</string>
+    <string name="comp">Compass</string>
+    <string name="gps">Location</string>
+    <string name="lat">Current Latitude:</string>
+    <string name="lon">Current Longitude:</string>
+    <string name="alt">My Altitude:</string>
     <string name="acc">Accuracy:</string>
     <string name="spd">Speed:</string>
-    <string name="adr">Address:</string>
-    <string name="upd">"Updates: "</string>
+    <string name="adr">Current Address:</string>
+    <string name="upd">"Update"</string>
     <string name="loc_upd">Location Updates</string>
     <string name="lat2">(Target) Latitude:</string>
     <string name="lon2">(Target) Longitude:</string>
@@ -16,4 +18,12 @@
     <string name="spd2">(Target) Speed:</string>
     <string name="adr2">(Target) Address:</string>
     <string name="off">Off</string>
+    <string name="save">Destination</string>
+    <string name="load">Direction</string>
+    <string name="saveLoc">Save My Location</string>
+    <string name="saveCustom">Save Custom Location</string>
+    <string name="heading">"Heading: "</string>
+    <string name="degrees">" Degrees"</string>
+    <string name="entLat">Enter Latitude here</string>
+    <string name="entLon">Enter Longitude here</string>
 </resources>
